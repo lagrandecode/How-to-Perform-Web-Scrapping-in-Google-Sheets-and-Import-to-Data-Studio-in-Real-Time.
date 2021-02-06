@@ -8,3 +8,7 @@ Animation GIF
 CODE TO DETERMINE TABLE IN A SITE
 COPY THIS AND PASTE IT IN CONSOLE
 Tables: var i = 1; [].forEach.call(document.querySelectorAll('table'), function(x) { console.log(i++, x); });
+
+click on this link to watch the YouTube video.
+
+https://www.youtube.com/watch?v=_S56WNwljAU
