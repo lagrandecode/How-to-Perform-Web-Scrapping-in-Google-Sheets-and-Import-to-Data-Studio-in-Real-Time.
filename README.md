@@ -1,0 +1,2 @@
+# How-to-Perform-Web-Scrapping-in-Google-Sheets-and-Import-to-Data-Studio-in-Real-Time.
+Google Sheets is a spreadsheet program included as part of the free, web-based Google Docs Editors suite offered by Google. Google Data Studio provides sophisticated visualization of reporting that includes dashboards, maps and graphs that can be customized. Although the brand is fairly new, data analysts have embraced the platform as it allows them to create various charts and graphs in a more visually attractive manner.
